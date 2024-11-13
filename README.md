@@ -1,2 +1,1 @@
-# Weather-App
-A simple weather app that provides real-time updates based on your location or any city. It fetches data from a weather API, to display key info like temperature, humidity, and conditions.
+This Weather App is a simple, responsive web application designed to provide users with real-time weather updates for any city around the world. Built with HTML, CSS, and JavaScript, it leverages a weather API to fetch current weather data, including temperature, humidity, wind speed, and weather conditions. Users can search for their desired city, and the app will dynamically display the latest weather information.
